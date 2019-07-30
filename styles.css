@@ -1,0 +1,62 @@
+body{
+  font-family: 'Amatic SC', cursive;
+  text-align: center;
+  color:white;
+  background:#94999C;
+}
+h1{
+  font-size: 60px;
+  margin: 20px;
+  margin-bottom: 10px;
+}
+h2{
+  font-size: 40px;
+  margin: 10px;
+}
+img{
+  margin: 15px;
+  }
+.one{
+  align-items: center;
+  width:95.5%;
+  height:100%;
+  object-fit: cover;
+}
+.two{
+  flex-direction:row;
+  width:316px;
+  height:316px;
+  object-fit: cover;
+}
+.first{
+  flex-direction:row;
+}
+.three{
+  width:658px;
+  height:316px;
+  object-fit: cover;
+}
+.four{
+  width:316px;
+  height:316px;
+  object-fit: cover;
+}
+.second{
+  flex-direction: row;
+}
+.five{
+  width:316px;
+  height:316px;
+  object-fit: cover;
+}
+.six{
+  width:658px;
+  height:316px;
+  object-fit: cover;
+}
+.seven{
+  flex-direction:row;
+  width:316px;
+  height:316px;
+  object-fit: cover;
+}
